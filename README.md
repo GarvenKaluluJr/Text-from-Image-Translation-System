@@ -1,4 +1,4 @@
-Text Recognition and Translation System
+Text Recognition and Translation System.
 A Flask-based web application that extracts text from images using Tesseract OCR and translates it into a target language using Google Translate API. This project supports multiple languages and offers a clean, dynamic interface for selecting the image's language and the target translation language.
 
 Features
